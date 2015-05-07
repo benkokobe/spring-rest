@@ -1,5 +1,6 @@
 package com.bko.domain;
 
+
 public class Greeting {
 
     private final long id;
